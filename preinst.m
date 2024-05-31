@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
 
-#define PREF_PATH @"/var/jb/mobile/Library/Preferences/com.apple.springboard.plist"
+#define PREF_PATH @"/var/mobile/Library/Preferences/com.apple.springboard.plist"
 #define KEY1 @"_NepetaIconState"
 #define KEY2 @"_GridiculousIconState"
 

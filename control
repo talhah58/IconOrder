@@ -14,4 +14,4 @@ Description: Preserve custom icon layouts by Springboard Crash or reboots etc
 Depiction: 
 Homepage: https://ichitaso.com/
 dev: ichitaso
-Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios16.3.1
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios16.3.1 Supports:roothide
